@@ -29,4 +29,4 @@ Python 3
 - Machine can be turned off with a command (type "off")
 
 ## Author
-- Arebisola Ibukunoluwa Michael
+Arebisola Ibukunoluwa Michael
