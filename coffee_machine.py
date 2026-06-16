@@ -1,22 +1,3 @@
-# from turtle import *
-#
-# mickey = Turtle()
-# mickey.shape("turtle")
-# mickey.color("coral")
-# mickey.width(4)
-#
-# mickey.fd(200)
-# mickey.left(120)
-# mickey.fd(200)
-# mickey.left(120)
-# mickey.fd(200)
-#
-# my_screen = Screen()
-# my_screen.exitonclick()
-
-#######################################################################################################
-
-
 from menu import Menu
 from money_machine import MoneyMachine
 from coffee_maker import CoffeeMaker
