@@ -27,3 +27,6 @@ Python 3
 - Prepares and serves the selected drink
 - Displays a full resource and profit report (type "report")
 - Machine can be turned off with a command (type "off")
+
+## Author
+- Arebisola Ibukunoluwa Michael
